@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object Model with Page Factories">
+	<listeners>
+		<listener class-name="com.frankbahar.errorcollectors.TestListenerAdapter"/>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+		<listener class-name="com.frankbahar.listeners.CustomListeners"/>
+	</listeners>
+  <test thread-count="5" name="Sign in Test">
+    <classes>
+      <class name="com.frankbahar.testcases.SignInTest"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Flight Search Test">
+    <classes>
+      <class name="com.frankbahar.testcases.FlightSearchTest"/>
+    </classes>
+  </test> <!-- Test -->
+  </suite> <!-- Suite -->

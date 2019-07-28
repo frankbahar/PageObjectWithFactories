@@ -1,0 +1,28 @@
+02:21:39,015 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:21:39,018 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:21:39,019 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:21:39,020 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:21:39,020 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/omer/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:21:42,222 DEBUG devpinoyLogger:64 - Chrome Launched !!
+02:21:49,544 DEBUG devpinoyLogger:88 - Clicking on an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #header-account-menu]
+02:21:49,705 DEBUG devpinoyLogger:88 - Clicking on an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #account-signin]
+02:21:51,745 DEBUG devpinoyLogger:97 - Typing in an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #gss-signin-email] entered value as java@gmail.com
+02:21:51,973 DEBUG devpinoyLogger:97 - Typing in an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #gss-signin-password] entered value as 1231313.0
+02:21:52,115 DEBUG devpinoyLogger:88 - Clicking on an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #gss-signin-submit]
+02:21:52,133 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:21:52,133 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:21:52,134 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:21:52,134 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:21:52,134 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/omer/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:22:07,432 DEBUG devpinoyLogger:64 - Chrome Launched !!
+02:22:15,031 DEBUG devpinoyLogger:88 - Clicking on an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> xpath: //button[starts-with(@id,'tab-flight-tab')]]
+02:22:21,625 DEBUG devpinoyLogger:97 - Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: input[id^='flight-origin']] entered value as New York, United States of America (NYC)
+02:22:24,828 DEBUG devpinoyLogger:97 - Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: input[id^='flight-destination']] entered value as Cancun, Quintana Roo, Mexico (CUN)
+02:22:30,054 DEBUG devpinoyLogger:97 - Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: #flight-departing-hp-flight] entered value as 6/10/19
+02:22:35,314 DEBUG devpinoyLogger:97 - Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: #flight-returning-hp-flight] entered value as 6/15/19
+02:26:16,900 DEBUG devpinoyLogger:88 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.all({By.cssSelector: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button,By.xpath: //*[@id='gcw-flights-form-hp-flight']/div[8]/label/button})'
+02:29:18,202 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:29:18,203 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:29:18,203 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:29:18,203 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:29:18,203 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/omer/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sign in Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="1"
+           time="12.900">
+  <properties />
+  
+            <testcase name="signInTest" time="0.0" classname="com.frankbahar.testcases.SignInTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="signInTest" time="12.892" classname="com.frankbahar.testcases.SignInTest" />
+      
+</testsuite>

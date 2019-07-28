@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42793" started-at="2019-05-21T03:37:54Z" finished-at="2019-05-21T03:38:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42793" started-at="2019-05-21T03:37:54Z" finished-at="2019-05-21T03:38:37Z">
+      <class name="com.frankbahar.testcases.FlightSearchTest">
+        <test-method status="PASS" signature="flightSearchTestmain()[pri:0, instance:com.frankbahar.testcases.FlightSearchTest@4b9e13df]" name="flightSearchTestmain" duration-ms="42771" started-at="2019-05-20T23:37:54Z" finished-at="2019-05-20T23:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearchTestmain -->
+      </class> <!-- com.frankbahar.testcases.FlightSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

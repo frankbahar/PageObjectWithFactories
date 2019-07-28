@@ -1,0 +1,13 @@
+29/05/2019 02:21:42 devpinoyLogger Chrome Launched !!
+29/05/2019 02:21:49 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #header-account-menu]
+29/05/2019 02:21:49 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #account-signin]
+29/05/2019 02:21:51 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #gss-signin-email] entered value as java@gmail.com
+29/05/2019 02:21:51 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #gss-signin-password] entered value as 1231313.0
+29/05/2019 02:21:52 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (0e9034c601c9279b8cde13986d26172b)] -> css selector: #gss-signin-submit]
+29/05/2019 02:22:07 devpinoyLogger Chrome Launched !!
+29/05/2019 02:22:15 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> xpath: //button[starts-with(@id,'tab-flight-tab')]]
+29/05/2019 02:22:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: input[id^='flight-origin']] entered value as New York, United States of America (NYC)
+29/05/2019 02:22:24 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: input[id^='flight-destination']] entered value as Cancun, Quintana Roo, Mexico (CUN)
+29/05/2019 02:22:30 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: #flight-departing-hp-flight] entered value as 6/10/19
+29/05/2019 02:22:35 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f993a0781f58b89d685804f603de10b4)] -> css selector: #flight-returning-hp-flight] entered value as 6/15/19
+29/05/2019 02:26:16 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.all({By.cssSelector: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button,By.xpath: //*[@id='gcw-flights-form-hp-flight']/div[8]/label/button})'
